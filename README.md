@@ -14,8 +14,8 @@ A simple blood bank project.
 * Hospital ‘View requests’ page - Hospitals should be able to see the list of all the receivers who have requested for particular blood group from its blood bank.
 
 # Technologies: 
-* front-end : HTML , CSS , JavaScript , Jquery , Bootstrap 
-* back-end : PHP, Mysqli, JSON
+* Front-end : HTML , CSS , JavaScript , Jquery , Bootstrap 
+* Back-end : PHP, Mysqli, JSON
 * Software : Xampp, Any browser
 
 # Setup and Installation
